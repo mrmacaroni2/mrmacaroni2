@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmacaroni2&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrmacaroni2&show_icons=true&theme=radical&repo=Volaroid)](https://github.com/mrmacaroni2/Volaroid)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmacaroni&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mrmacaroni2/mrmacaroni2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
