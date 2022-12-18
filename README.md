@@ -1,4 +1,4 @@
-### Hi there 👋 <br> this is the volaroid team
+### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmacaroni2&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrmacaroni2&show_icons=true&theme=radical&repo=Volaroid)](https://github.com/mrmacaroni2/Volaroid)
